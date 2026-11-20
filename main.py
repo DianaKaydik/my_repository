@@ -2,7 +2,7 @@ import funcs
 
 print("Hello world!")
 print("This is first work with version control GIT")
-
-print(
-    funcs.calc(2, 3)
-)
+for i in range(10):
+    print(
+        funcs.calc(2, 3)
+    )
